@@ -104,3 +104,4 @@
 'multi tv',
 'vtc news',
 'blogphunu',
+'viepaparazzi',
