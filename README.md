@@ -1,2 +1,4 @@
-# fbblocklist-keyword
-Danh sách keyword blocklist cho Facebook, đóng góp bởi cộng đồng.
+# 🚫 Facebook Keyword Blocklist  
+
+**Danh sách từ khóa chặn nội dung không mong muốn trên Facebook.**  
+Được đóng góp bởi cộng đồng.  
