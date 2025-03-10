@@ -95,7 +95,6 @@
 'the face vietnam',
 'phim cực ngắn',
 'vinh gấu',
-'vtv news',
 'baby three',
 'loramen',
 'tizi',
@@ -104,3 +103,4 @@
 'multi tv',
 'vtc news',
 'blogphunu',
+'viepaparazzi',
